@@ -23,7 +23,11 @@ body{
     transition: 0.3s;
     cursor: pointer;
 }
-#input{
+#input1{
+    padding: 10px;
+    width: 1200px;
+}
+#output1{
     padding: 10px;
     width: 1200px;
 }
